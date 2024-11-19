@@ -47,7 +47,7 @@ The fine-tuned model is used to answer specific queries based on training data.
 
 ## Screenshot of execution results
 
-![My Project Screenshot](assets/Screenshot1.png)
+![My Project Screenshot](ss/Screenshot1.png)
 
-![My Project Screenshot](assets/Screenshot2.png)
+![My Project Screenshot](ss/Screenshot2.png)
    
